@@ -1,1 +1,3 @@
 Hi this is the first version of this test text file
+
+I have now added some more text to this file.
